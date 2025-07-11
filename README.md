@@ -79,6 +79,8 @@ curl -X POST "http://localhost:8000/api/v1/evaluate" \
 ### Sample Audio Files
 
 - [harvard.wav](./test-audio-files/harvard.wav)
+- [audio_2.wav](./test-audio-files/audio_2.wav)
+- [audio_3.wav](./test-audio-files/audio_3.wav)
 
 ## Assumptions and Notes
 
